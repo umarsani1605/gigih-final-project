@@ -1,6 +1,6 @@
 # Tokopedia Play Clone
 
-This repository is dedicated to Generasi Gigih 3.0 Final Project
+This repository is dedicated for Generasi Gigih 3.0 Final Project
 
 ## API 
 
